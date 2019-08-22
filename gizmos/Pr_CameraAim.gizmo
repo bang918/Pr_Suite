@@ -4,7 +4,8 @@
 # Developer: Parimal Desai
 # Website: www.parimalvfx.com
 
-Gizmo {
+Group {
+name Pr_CameraAim
  help "Tool Name: <b>Pr_CameraAim</b>\nVersion: <b>1.0</b>\nCreated For: <b>Pr_Suite v1.0</b>\nDeveloper: <b>Parimal Desai</b>\nWebsite: <b>www.parimalvfx.com</b>"
  tile_color 0x7f7f7fff
  lock_connections true
